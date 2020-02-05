@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Lyarz/youtube-playlist-collector#readme",
   "dependencies": {
+    "@types/node": "^13.7.0",
     "dotenv-safe": "^8.2.0",
     "google-auth-library": "^5.9.2",
     "googleapis": "^47.0.0"
