@@ -1,0 +1,24 @@
+{
+  "name": "youtube-playlist-collector",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lyarz/youtube-playlist-collector.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lyarz/youtube-playlist-collector/issues"
+  },
+  "homepage": "https://github.com/Lyarz/youtube-playlist-collector#readme",
+  "dependencies": {
+    "dotenv-safe": "^8.2.0",
+    "google-auth-library": "^5.9.2",
+    "googleapis": "^47.0.0"
+  }
+}
